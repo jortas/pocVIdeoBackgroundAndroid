@@ -1,0 +1,2 @@
+rootProject.name = "POC for videos"
+include ':app'
